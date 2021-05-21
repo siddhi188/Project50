@@ -1,0 +1,34 @@
+.menu{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: black;
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+}
+.grid{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+    border:2px solid black;
+    border-radius:50px;
+}
+.origami{
+   background-color: chartreuse;
+
+    display:flex;
+    justify-content:space-evenly;
+    width:315px;
+    font-family: fantasy;
+    border-radius: 20px;
+}
+.origami0{
+    background-color: chartreuse;
+ 
+     display:flex;
+     justify-content:space-evenly;
+     width:315px;
+     font-family: fantasy;
+     border-radius: 20px;
+     text-align: center;
+ }
